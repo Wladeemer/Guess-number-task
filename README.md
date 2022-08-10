@@ -8,6 +8,7 @@
 [4. Этапы работы над проектом](https://github.com/Wladeemer/Guess-number-task/blob/master/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/Wladeemer/Guess-number-task/blob/master/README.md#Результат)  
 [6. Выводы](https://github.com/Wladeemer/Guess-number-task/blob/master/README.md#Выводы)
+[7. Бонус](https://github.com/Wladeemer/Guess-number-task/blob/master/README.md#Бонус)
 
 ### Описание проекта
 
@@ -66,5 +67,6 @@
 - Сыграй в игру **Угадай число!** с компьютером
 
 ⮬[к оглавлению](https://github.com/Wladeemer/Guess-number-task/blob/master/README.md#Оглавление)
+---
 
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️
+_Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль_ ⭐️⭐️⭐️
